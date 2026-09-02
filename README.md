@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/jeeva-m-21">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=JEEVA%20M&fontSize=78&fontColor=141413&fontAlignY=41&desc=AI%20SYSTEMS%20%2F%2F%20RESEARCH%20INFRA%20%2F%2F%20EDGE%20ML&descSize=15&descColor=4d4c48&descAlignY=67&animation=fadeIn&color=F5F4ED&stroke=C96442&strokeWidth=3" width="100%" alt="Jeeva M warm editorial animated header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&fontFamily=Press+Start+2P&text=JEEVA%20M&fontSize=70&fontColor=C96442&fontAlignY=40&desc=TECH%20ENTHUSIAST%20%2F%2F%20AI%20SYSTEMS%20%2F%2F%20EDGE%20ML&descSize=15&descColor=F5F4ED&descAlignY=67&animation=fadeIn&color=141413&stroke=C96442&strokeWidth=3" width="100%" alt="Jeeva M pixel-inspired animated header" />
 </a>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=C96442&center=true&vCenter=true&width=720&height=35&lines=building+useful+systems%2C+not+just+polished+demos;research+infrastructure+%C2%B7+retrieval+%C2%B7+edge+intelligence;architecture+is+communication+made+executable" alt="Animated statement" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=1000&color=C96442&center=true&vCenter=true&width=720&height=35&lines=%3E+TECH+ENTHUSIAST+ONLINE;%3E+BUILDING+WITH+AI+%2B+CODE;%3E+RESEARCHOS+%2F%2F+LOADED;%3E+EDGE+INTELLIGENCE+READY" alt="Pixel animated statement" />
 </a>
 
 <a href="https://jeeva-m.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F5F4ED?style=for-the-badge&logo=vercel&logoColor=141413&labelColor=F5F4ED" alt="Portfolio" /></a>
@@ -14,6 +14,14 @@
 
 <br />
 <sub><font color="#5e5d59">Chennai, India · Vellore Institute of Technology · open to high-signal engineering work</font></sub>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CLAUDE%20CODE-141413?style=for-the-badge&logo=anthropic&logoColor=C96442" alt="Claude Code" />
+<img src="https://img.shields.io/badge/AI%20NATIVE-C96442?style=for-the-badge&logoColor=F5F4ED" alt="AI native" />
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-30302E?style=for-the-badge&logo=github&logoColor=F5F4ED" alt="Open source" />
 
 </div>
 
