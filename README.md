@@ -1,155 +1,132 @@
 <div align="center">
 
 <a href="https://github.com/jeeva-m-21">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=JEEVA%20M&fontSize=72&fontColor=E6EDF3&fontAlignY=38&desc=AI%20Systems%20%7C%20Research%20Infrastructure%20%7C%20Edge%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&color=0:0d1117,45:161b22,100:0b4f6c" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=JEEVA%20M&fontSize=68&fontColor=E6EDF3&fontAlignY=38&desc=AI%20systems%20%2F%20research%20infrastructure%20%2F%20edge%20intelligence&descAlignY=61&descSize=16&animation=fadeIn&color=0:0d1117,50:161b22,100:0b4f6c" width="100%" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+build+systems+that+make+hard+problems+tractable.;Research+OS+%C2%B7+Hybrid+Search+%C2%B7+Multi-Agent+AI;Edge+ML+%C2%B7+Computer+Vision+%C2%B7+Developer+Tools;Architecture+is+communication+made+executable." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=I+turn+hard+problems+into+systems+people+can+use.;ResearchOS+%C2%B7+hybrid+search+%C2%B7+agentic+workflows;Edge+ML+%C2%B7+computer+vision+%C2%B7+developer+tools" alt="Typing animation" />
 </a>
 
 <p>
   <a href="https://jeeva-m.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jeeva4772/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:jeeva4772@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/jeeva-m-21?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jeeva-m-21&style=flat-square&color=58A6FF&label=PROFILE+SIGNALS" alt="Profile views" />
+<sub>Chennai, India · Vellore Institute of Technology · open to internships and research collaborations</sub>
 
 </div>
 
 ---
 
-## The short version
+## In 30 seconds
 
-I am an engineer who likes the layer where ideas become systems.
+I build AI-native products and the infrastructure beneath them. My strongest work sits at the intersection of **backend architecture, retrieval systems, developer tooling, and edge ML**.
 
-I build AI-native products, research infrastructure, and edge-intelligence prototypes — then make the architecture explicit enough that another engineer can understand the trade-offs, run the project, and extend it.
+I care about the part after the demo: explicit boundaries, reproducible experiments, useful interfaces, and documentation that lets another engineer take over.
 
 ```text
-problem → domain model → working system → evidence → iteration
+understand the problem  →  model the domain  →  ship a small system  →  measure  →  iterate
 ```
 
-Currently studying at Vellore Institute of Technology and building from Chennai, India.
+## Selected work
 
-## What I am building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ResearchOS
+### ResearchOS · research infrastructure
 
 An open research operating system for experiments, notebooks, papers, artifacts, provenance, and AI-assisted discovery.
 
-`DDD` `Hexagonal Architecture` `FastAPI` `PostgreSQL` `pgvector` `Redis Streams` `Next.js`
+**Interesting because:** it treats research objects as connected, versioned domain objects rather than isolated files.
 
-<a href="https://github.com/jeeva-m-21/ResearchOS">→ inspect the architecture</a>
+**Built with:** `Python` `FastAPI` `PostgreSQL` `pgvector` `Redis Streams` `Next.js` `TypeScript`
 
-</td>
-<td width="50%" valign="top">
+[Read the architecture →](https://github.com/jeeva-m-21/ResearchOS)
 
-### ProblemAtlas
+---
 
-A problem-centric platform for finding real-world gaps and turning them into collaborative solution spaces.
+### ProblemAtlas · problem intelligence
 
-`TypeScript` `React` `Next.js` `Tailwind` `Framer Motion`
+A problem-centric platform for discovering real-world gaps and turning them into collaborative solution spaces.
 
-<a href="https://github.com/jeeva-m-21/ProblemAtlas">→ explore the product</a>
+**Interesting because:** the product starts with the problem and its evidence, not with a generic project-management workflow.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Built with:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-### ForgeMCU
+[Explore the prototype →](https://github.com/jeeva-m-21/ProblemAtlas)
 
-Exploring agentic workflows for embedded development, firmware generation, and hardware-aware tooling.
+---
 
-`Embedded` `MCU` `Firmware` `AI`
+### ForgeMCU · embedded systems tooling
 
-<a href="https://github.com/jeeva-m-21/ForgeMCU">→ see the workbench</a>
+An exploration of agentic workflows for embedded development, firmware generation, and hardware-aware tooling.
 
-</td>
-<td width="50%" valign="top">
+**Interesting because:** it asks how AI can assist with constrained, hardware-connected work instead of only generating web code.
 
-### Edge intelligence
+**Focus:** `Embedded systems` `MCU` `Firmware` `AI workflows`
 
-Computer vision for agriculture and sensing: crop density, leaf segmentation, and water monitoring.
+[See the workbench →](https://github.com/jeeva-m-21/ForgeMCU)
 
-`Python` `YOLOv8` `OpenCV` `Computer Vision`
+---
 
-<a href="https://github.com/jeeva-m-21?tab=repositories">→ browse the experiments</a>
+### Edge intelligence · computer vision
 
-</td>
-</tr>
-</table>
+Projects around crop-density estimation, leaf segmentation, and water monitoring — applying computer vision where predictions need to be practical and close to the field.
 
-## Systems I enjoy designing
+**Focus:** `Python` `YOLOv8` `OpenCV` `Precision agriculture`
+
+[Browse the experiments →](https://github.com/jeeva-m-21?tab=repositories)
+
+## How I think about systems
 
 ```mermaid
 flowchart LR
-    A[Real-world problem] --> B[Domain model]
-    B --> C[Reliable core]
-    C --> D[Search / AI / Interface]
-    D --> E[Evidence and feedback]
-    E -.-> A
+    P[Real problem] --> M[Domain model]
+    M --> C[Reliable core]
+    C --> I[Interface + intelligence]
+    I --> E[Evidence]
+    E -. feedback .-> P
 ```
 
-- **Research platforms:** experiment lineage, notebooks, papers, artifacts, and reproducibility
-- **Knowledge systems:** vector search, full-text search, graph relationships, and retrieval workflows
-- **AI products:** agents that use tools and data instead of only producing chat
-- **Edge ML:** useful predictions under real-world constraints
-- **Developer experience:** clear defaults, automation, docs, and feedback loops
+- **Model before scaling** — understand the domain before adding infrastructure.
+- **Evidence over theatre** — tests, measurements, diagrams, and reproducible runs beat claims.
+- **Prototype honestly** — make the boundary between working, experimental, and planned obvious.
+- **Leave a map** — architecture decisions and setup instructions are part of the product.
 
-## Tech constellation
+## Current technical orbit
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,postgres,redis,docker,kubernetes,pytorch,opencv,git,github,linux&perline=8" alt="Technology icons" />
-
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,postgres,redis,docker,kubernetes,pytorch,opencv,git,github,linux&perline=7" alt="Technology icons" />
 </div>
 
-## Engineering principles
-
-| Principle | What it means in practice |
-|---|---|
-| Model before scaling | Understand the domain before adding infrastructure. |
-| Boring boundaries, ambitious outcomes | Keep interfaces explicit so the product can move fast. |
-| Evidence over theatre | Tests, measurements, diagrams, and reproducible runs beat claims. |
-| Prototype honestly | Separate what works today from what is planned next. |
-| Leave a map | Good documentation is part of the implementation. |
-
-## Signal dashboard
-
-<div align="center">
-
-<a href="https://github.com/jeeva-m-21">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeeva-m-21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/jeeva-m-21">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-m-21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-</a>
-
+<details>
+<summary><b>What I use these for</b></summary>
 <br />
 
-<a href="https://github.com/jeeva-m-21">
-  <img src="https://streak-stats.demolab.com?user=jeeva-m-21&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=79C0FF" alt="GitHub contribution streak" />
-</a>
+| Area | Tools |
+|---|---|
+| Application systems | Python, FastAPI, TypeScript, React, Next.js |
+| Data and retrieval | PostgreSQL, pgvector, Redis, hybrid search |
+| AI and vision | PyTorch, YOLOv8, OpenCV, embeddings, tool-using agents |
+| Delivery | Docker, Kubernetes, GitHub Actions, Linux |
+| Design habits | DDD, hexagonal architecture, event-driven systems, testable boundaries |
 
-</div>
+</details>
 
-## Open to
+## A note to future collaborators
 
-Internships, research collaborations, and ambitious engineering problems involving AI systems, developer tools, backend architecture, or edge intelligence.
+I am looking for work where the problem is concrete, the technical bar is high, and there is room to learn from people who have shipped systems at scale.
 
-If the problem is difficult, concrete, and worth building, [let's talk](mailto:jeeva4772@gmail.com).
+If you are building in **AI systems, research tooling, backend architecture, developer experience, or edge intelligence**, [I would like to hear from you](mailto:jeeva4772@gmail.com).
 
 <div align="center">
 
-<sub>Built with intent · documented with care · shipped one iteration at a time</sub>
+<a href="https://github.com/jeeva-m-21?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
+<a href="https://jeeva-m.vercel.app"><img src="https://img.shields.io/badge/Read%20the%20portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Read the portfolio" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0b4f6c,55:161b22,100:0d1117" width="100%" />
+<br /><br />
+
+<sub>Built with intent · documented with care · improved in public</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0b4f6c,55:161b22,100:0d1117" width="100%" />
 
 </div>
