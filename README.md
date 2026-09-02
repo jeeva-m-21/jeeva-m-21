@@ -1,132 +1,159 @@
 <div align="center">
 
 <a href="https://github.com/jeeva-m-21">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=JEEVA%20M&fontSize=68&fontColor=E6EDF3&fontAlignY=38&desc=AI%20systems%20%2F%20research%20infrastructure%20%2F%20edge%20intelligence&descAlignY=61&descSize=16&animation=fadeIn&color=0:0d1117,50:161b22,100:0b4f6c" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=JEEVA%20M&fontSize=72&fontColor=58A6FF&fontAlignY=42&desc=AI%20SYSTEMS%20%2F%2F%20RESEARCH%20INFRA%20%2F%2F%20EDGE%20ML&descSize=16&descAlignY=67&color=0D1117&stroke=58A6FF&strokeWidth=2" width="100%" alt="Jeeva M pixel terminal header" />
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=I+turn+hard+problems+into+systems+people+can+use.;ResearchOS+%C2%B7+hybrid+search+%C2%B7+agentic+workflows;Edge+ML+%C2%B7+computer+vision+%C2%B7+developer+tools" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=1000&color=79C0FF&center=true&vCenter=true&width=760&height=35&lines=%3E+BUILDING+USEFUL+SYSTEMS;THE+DEMO+IS+ONLY+THE+START;RESEARCHOS+ONLINE;EDGE+INTELLIGENCE+LOADED" alt="Pixel typing animation" />
 
-<p>
-  <a href="https://jeeva-m.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jeeva4772/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:jeeva4772@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
-
-<sub>Chennai, India · Vellore Institute of Technology · open to internships and research collaborations</sub>
+<a href="https://jeeva-m.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/jeeva4772/"><img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+<a href="mailto:jeeva4772@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B6%20CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact" /></a>
 
 </div>
 
----
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ PLAYER: JEEVA M                         STATUS: BUILDING              │
+│ CLASS: AI SYSTEMS ENGINEER              LOCATION: CHENNAI, INDIA     │
+│ QUEST: turn hard problems into systems people can actually use        │
+│ LOADOUT: backend architecture · retrieval · agents · edge ML          │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-## In 30 seconds
+## The human version
 
-I build AI-native products and the infrastructure beneath them. My strongest work sits at the intersection of **backend architecture, retrieval systems, developer tooling, and edge ML**.
+I am a student at Vellore Institute of Technology who enjoys the point where a rough idea becomes a system with boundaries, trade-offs, and a clear path for the next engineer.
 
-I care about the part after the demo: explicit boundaries, reproducible experiments, useful interfaces, and documentation that lets another engineer take over.
+My work lives across **AI-native products, research infrastructure, developer tooling, and computer vision at the edge**. I am especially interested in the part after the demo: reproducibility, useful interfaces, honest documentation, and making complicated systems understandable.
+
+## Current missions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` ResearchOS
+
+**Research infrastructure with a memory.**
+
+Experiments, notebooks, papers, artifacts, provenance, hybrid search, and AI assistance in one connected system.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/pgvector-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF" />
+
+<a href="https://github.com/jeeva-m-21/ResearchOS">↳ inspect the architecture</a>
+
+</td>
+<td width="50%" valign="top">
+
+### `02` ProblemAtlas
+
+**Problem discovery before solution theatre.**
+
+A platform for finding real-world gaps, collecting evidence, and creating collaborative spaces around meaningful problems.
+
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Framer-0D1117?style=flat-square&logo=framer&logoColor=BB86FC" />
+
+<a href="https://github.com/jeeva-m-21/ProblemAtlas">↳ explore the prototype</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` ForgeMCU
+
+**AI-assisted embedded development.**
+
+Exploring agentic workflows for firmware generation, MCU projects, and hardware-aware tooling.
+
+<img src="https://img.shields.io/badge/Embedded-0D1117?style=flat-square&logo=arduino&logoColor=00979D" /> <img src="https://img.shields.io/badge/Firmware-0D1117?style=flat-square&logo=espressif&logoColor=E7352C" /> <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" />
+
+<a href="https://github.com/jeeva-m-21/ForgeMCU">↳ enter the workbench</a>
+
+</td>
+<td width="50%" valign="top">
+
+### `04` Edge intelligence
+
+**Computer vision where it matters.**
+
+Crop-density estimation, leaf segmentation, and water monitoring for practical field-facing intelligence.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+
+<a href="https://github.com/jeeva-m-21?tab=repositories">↳ browse the experiments</a>
+
+</td>
+</tr>
+</table>
+
+## Architecture instinct
+
+<table>
+<tr>
+<td width="52%" valign="top">
 
 ```text
-understand the problem  →  model the domain  →  ship a small system  →  measure  →  iterate
+[REAL PROBLEM]
+       │
+       ▼
+[DOMAIN MODEL] ──► [RELIABLE CORE]
+                         │
+                         ▼
+              [SEARCH / AI / UI]
+                         │
+                         ▼
+                  [EVIDENCE]
+                         │
+                         └─────── feedback ───► [REAL PROBLEM]
 ```
 
-## Selected work
+</td>
+<td width="48%" valign="top">
 
-### ResearchOS · research infrastructure
+**I optimise for:**
 
-An open research operating system for experiments, notebooks, papers, artifacts, provenance, and AI-assisted discovery.
+▸ clear domain boundaries  
+▸ systems another person can run  
+▸ measurements over adjectives  
+▸ prototypes that say what is real  
+▸ documentation that leaves a map
 
-**Interesting because:** it treats research objects as connected, versioned domain objects rather than isolated files.
+</td>
+</tr>
+</table>
 
-**Built with:** `Python` `FastAPI` `PostgreSQL` `pgvector` `Redis Streams` `Next.js` `TypeScript`
-
-[Read the architecture →](https://github.com/jeeva-m-21/ResearchOS)
-
----
-
-### ProblemAtlas · problem intelligence
-
-A problem-centric platform for discovering real-world gaps and turning them into collaborative solution spaces.
-
-**Interesting because:** the product starts with the problem and its evidence, not with a generic project-management workflow.
-
-**Built with:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-[Explore the prototype →](https://github.com/jeeva-m-21/ProblemAtlas)
-
----
-
-### ForgeMCU · embedded systems tooling
-
-An exploration of agentic workflows for embedded development, firmware generation, and hardware-aware tooling.
-
-**Interesting because:** it asks how AI can assist with constrained, hardware-connected work instead of only generating web code.
-
-**Focus:** `Embedded systems` `MCU` `Firmware` `AI workflows`
-
-[See the workbench →](https://github.com/jeeva-m-21/ForgeMCU)
-
----
-
-### Edge intelligence · computer vision
-
-Projects around crop-density estimation, leaf segmentation, and water monitoring — applying computer vision where predictions need to be practical and close to the field.
-
-**Focus:** `Python` `YOLOv8` `OpenCV` `Precision agriculture`
-
-[Browse the experiments →](https://github.com/jeeva-m-21?tab=repositories)
-
-## How I think about systems
-
-```mermaid
-flowchart LR
-    P[Real problem] --> M[Domain model]
-    M --> C[Reliable core]
-    C --> I[Interface + intelligence]
-    I --> E[Evidence]
-    E -. feedback .-> P
-```
-
-- **Model before scaling** — understand the domain before adding infrastructure.
-- **Evidence over theatre** — tests, measurements, diagrams, and reproducible runs beat claims.
-- **Prototype honestly** — make the boundary between working, experimental, and planned obvious.
-- **Leave a map** — architecture decisions and setup instructions are part of the product.
-
-## Current technical orbit
+## Tech inventory
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,postgres,redis,docker,kubernetes,pytorch,opencv,git,github,linux&perline=7" alt="Technology icons" />
+
 </div>
 
 <details>
-<summary><b>What I use these for</b></summary>
+<summary><b>Open the full loadout</b></summary>
 <br />
 
-| Area | Tools |
-|---|---|
-| Application systems | Python, FastAPI, TypeScript, React, Next.js |
-| Data and retrieval | PostgreSQL, pgvector, Redis, hybrid search |
-| AI and vision | PyTorch, YOLOv8, OpenCV, embeddings, tool-using agents |
-| Delivery | Docker, Kubernetes, GitHub Actions, Linux |
-| Design habits | DDD, hexagonal architecture, event-driven systems, testable boundaries |
+`Python` `TypeScript` `React` `Next.js` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker` `Kubernetes` `PyTorch` `YOLOv8` `OpenCV` `GitHub Actions` `Linux`
 
 </details>
 
-## A note to future collaborators
+## Save point
 
-I am looking for work where the problem is concrete, the technical bar is high, and there is room to learn from people who have shipped systems at scale.
+I am open to **internships, research collaborations, and difficult engineering problems** involving AI systems, backend architecture, developer experience, or edge intelligence.
 
-If you are building in **AI systems, research tooling, backend architecture, developer experience, or edge intelligence**, [I would like to hear from you](mailto:jeeva4772@gmail.com).
+<a href="mailto:jeeva4772@gmail.com">Send a message →</a>
 
 <div align="center">
 
-<a href="https://github.com/jeeva-m-21?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
-<a href="https://jeeva-m.vercel.app"><img src="https://img.shields.io/badge/Read%20the%20portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Read the portfolio" /></a>
+<a href="https://github.com/jeeva-m-21?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View all projects" /></a>
 
 <br /><br />
 
-<sub>Built with intent · documented with care · improved in public</sub>
+<sub>v3.0 · improved in public · no empty hype</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0b4f6c,55:161b22,100:0d1117" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&text=%E2%96%88%20%E2%96%88%20%E2%96%88%20%E2%96%88%20%E2%96%88%20%E2%96%88%20%E2%96%88%20%E2%96%88&fontSize=20&fontColor=58A6FF&color=0D1117" width="100%" alt="Pixel footer" />
 
 </div>
