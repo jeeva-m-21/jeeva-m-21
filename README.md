@@ -1,8 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/jeeva-m-21">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=JEEVA%20M&fontFamily=Press%20Start%202P&fontSize=62&fontAlignY=52&fontColor=FFFFFF&animation=fadeIn&color=141413&stroke=C96442&strokeWidth=3" width="100%" alt="Animated white pixel-font header for Jeeva M" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&text=JEEVA%20M&fontFamily=Silkscreen&fontSize=64&fontAlignY=52&fontColor=FFFFFF&animation=fadeIn&color=141413" width="100%" alt="Animated white pixel-font header for Jeeva M" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&duration=2200&pause=700&color=C96442&center=true&vCenter=true&width=520&height=25&lines=%3E+BUILDING+IN+PUBLIC;%3E+SHIP.+LEARN.+REPEAT." alt="Orange animated pixel-style motto" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-141413?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://jeeva-m.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-C96442?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jeeva4772/)
