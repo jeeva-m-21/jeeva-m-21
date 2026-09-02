@@ -1,11 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/jeeva-m-21">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=JEEVA%20M&fontFamily=Press%20Start%202P&fontSize=62&fontAlignY=40&fontColor=FFFFFF&desc=AI%20SYSTEMS%20%2F%2F%20EDGE%20INTELLIGENCE%20%2F%2F%20BUILDER%20MODE&descAlignY=65&descSize=13&animation=fadeIn&color=141413&stroke=C96442&strokeWidth=3" width="100%" alt="Animated pixel-font header for Jeeva M" />
-</a>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=C96442&center=true&vCenter=true&width=720&height=32&lines=building+systems+that+remember;making+edge+intelligence+practical;turning+research+into+reliable+software" alt="Animated engineering statements" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=JEEVA%20M&fontFamily=Press%20Start%202P&fontSize=62&fontAlignY=52&fontColor=FFFFFF&animation=fadeIn&color=141413&stroke=C96442&strokeWidth=3" width="100%" alt="Animated white pixel-font header for Jeeva M" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-141413?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://jeeva-m.vercel.app)
